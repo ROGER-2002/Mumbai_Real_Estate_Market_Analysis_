@@ -6,11 +6,8 @@ Developed an interactive Power BI dashboard to analyze Mumbai's real estate mark
 Key Insights
 
 Analyzed property prices and price per sqft across major Mumbai localities.
-
 Identified high-demand areas and top-performing developers through interactive visualizations.
-
 Evaluated property distribution by configuration, budget segment, and locality.
-
 Built dynamic dashboards with filters and drill-down capabilities for market exploration.
 
 
@@ -18,13 +15,8 @@ Built dynamic dashboards with filters and drill-down capabilities for market exp
 Tools & Technologies
 
 Microsoft Excel
-
 Power BI
-
 DAX
-
 Power Query
-
 Data Modeling
-
 Data Visualization
